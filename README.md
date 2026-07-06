@@ -86,6 +86,10 @@ PASS  match_carbon MATCH
 | [Chip Marketplace](https://github.com/anoadder-ship-it/chip-circuits) | Encrypted semiconductor marketplace |
 | [arcium-darkpool-sdk](https://www.npmjs.com/package/arcium-darkpool-sdk) | TypeScript SDK for all four darkpools |
 
+## Live demo
+
+**[Try it now](https://anoadder-ship-it.github.io/darkpool-demo-)** — Connect Phantom wallet and run real encrypted computations on Solana devnet.
+
 ## License
 
 MIT

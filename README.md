@@ -1,5 +1,8 @@
 # Supply Chain Darkpool
 
+> Onderdeel van de **Darkpool Suite** — zie [darkpool-template](https://github.com/anoadder-ship-it/darkpool-template) voor het volledige overzicht, alle vier darkpools, en de multisig-upgrade-procedure.
+
+
 Encrypted matching of surplus industrial inventory and carbon credits between competitors. Find buyers and sellers without revealing inventory levels, pricing, or identities.
 
 **Program:** [3HQHpSBSgYkx81E25bSJZVz4mGoW6nQFJWDtZL9fmMR4](https://explorer.solana.com/address/3HQHpSBSgYkx81E25bSJZVz4mGoW6nQFJWDtZL9fmMR4?cluster=devnet)  
